@@ -1,0 +1,15 @@
+# Dependências e caches
+node_modules/
+.npm/
+.yarn/
+.cache/
+
+# Builds
+dist/
+build/
+
+# Configurações locais
+.env
+.vscode/
+.idea/
+.DS_Store
